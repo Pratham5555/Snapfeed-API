@@ -59,6 +59,6 @@
 8. **GET: /api/post/{post_id}/{comment_id}**: Retrieves all the comments on the Give post id
 9. **GET: /api/post/{post_id}/{comment_id}/reply**: Retrieves all the replies on that given comment of the given post
 
-#### Made By: Naman Gupta
-#### Email: namangupta990@gmail.com
-#### GitHub: [@Naman-Gupta-06](https://github.com/Naman-Gupta-06/)
+#### Made By: Pratham Maheshwari
+#### Email: pratham.maheshwari5@gmail.com
+#### GitHub: [@ Pratham5555](https://github.com/Pratham5555/)
